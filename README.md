@@ -17,7 +17,6 @@ This project has the followng features:
 
 if you have any suggestion you can mail me on noblefelix4@gmail.com
 
-## Code of Conduct
 
 ## License
 
