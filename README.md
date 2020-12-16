@@ -1,6 +1,6 @@
 
 
-## About Contest Project in Laravel
+## Contest Project in Laravel
 
 This project has the followng features:
 - Roles and Permission
@@ -10,7 +10,7 @@ This project has the followng features:
 - Complete CRUD
 - Laravel Eloquent Relationships
 - Mysql Database
--SMTP Mailing
+- SMTP Mailing
 
 
 ## Contributing
