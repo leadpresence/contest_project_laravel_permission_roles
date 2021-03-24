@@ -86,14 +86,6 @@ Route::namespace('Admin')->prefix('admin')->name('admin.')->middleware('can:mana
     Route::put('/store_contest', 'UserController@storeContest')->name('store_contest');
     Route::delete('/delete_contest/{id}', 'UserController@destroyContest')->name('delete_contest');
 
-
-
-
-    
-
-
-
-
 });
 
 
