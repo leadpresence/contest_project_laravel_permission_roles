@@ -18,8 +18,9 @@ This project has the followng features:
 if you have any suggestion you can mail me on noblefelix4@gmail.com
 
 ## Requirement
-Php ^7
-Laravel ^7
+- Php ^7
+
+- Laravel ^7
 
 ## License
 
